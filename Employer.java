@@ -1,7 +1,7 @@
 package pl.java.company;
 
 public class Employer {
-	
+	//emp
 	public String name;
 	public String surname;
 	public int age;

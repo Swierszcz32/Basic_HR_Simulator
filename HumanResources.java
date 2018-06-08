@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class HumanResources {
 		
 //		int tmp = 2;
-		Employer[] employers; 
+		Employer[] employers;  // emp
 		
 		public HumanResources(int tmp) {
 			employers = new Employer[tmp];
